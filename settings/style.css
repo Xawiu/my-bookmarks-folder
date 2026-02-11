@@ -34,6 +34,9 @@ table {
     font-weight: 500;
     color: #555;
 }
+.options td.item_name img {
+    max-height: 2.2rem;
+}
 #topId {
     width: 100%;
     max-width: 300px;
