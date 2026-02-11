@@ -12,7 +12,7 @@ Tired of navigating through deep menu trees to find your most-used links? This e
 * **Fast & Lightweight:** Built with performance in mind—no tracking, no unnecessary permissions, and lightning-fast loading.
 * **Smart Layout:** Long titles are automatically handled with ellipsis, and links are slightly indented for better visual clarity.
 
-![Sidebar Preview](https://raw.githubusercontent.com/Xawiu/my-sidebar-bookmarks-folder/main/screenshots/preview.png)
+![Sidebar Preview](https://raw.githubusercontent.com/Xawiu/my-sidebar-bookmarks-folder/main/screenshots/preview.jpg)
 
 **How to use:**
 
