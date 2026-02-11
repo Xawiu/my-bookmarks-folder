@@ -1,4 +1,4 @@
-# 📁 My Bookmarks Folder
+# ![My Bookmarks Folder](https://github.com/Xawiu/my-bookmarks-folder/blob/main/icons/icon.svg) My Bookmarks Folder
 
 **The ultimate shortcut to your bookmarks. Access any folder via Sidebar, Popup, or Context Menu.**
 
@@ -32,4 +32,4 @@ Stop digging through endless menus. This extension gives you instant, organized 
 
 Install the official extension from the **Firefox Add-ons** store:
 
-👉 **[Get My Bookmarks Folder for Firefox](https://addons.mozilla.org/pl/firefox/addon/my-sidebar-bookmarks/)**
+👉 **[Get My Bookmarks Folder for Firefox](https://addons.mozilla.org/pl/firefox/addon/my-bookmarks-folder/)**
