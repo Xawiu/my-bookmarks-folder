@@ -13,7 +13,7 @@
       display: flex;
       flex-direction: column;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: #ffffff;
+      background-color: #fff;
       color: #333;
     }
     #bookmark-list {
@@ -39,11 +39,20 @@
     .bookmark:hover {
       background-color: #efeff4;
     }
+    .separator-container {
+      padding: 0;
+      background-color: transparent;
+    }
+    .separator-line {
+      height: 1px;
+      background-color: #f0f0f0;
+      margin: 0;
+    }
+    .bookmark + .separator-container {
+      margin-top: -1px;
+    }
     .back-button {
-      background-color: #f8f8fa;
       font-weight: 600;
-      color: #0060df;
-      border-bottom: 2px solid #e1e1e6;
       position: sticky;
       top: 0;
       z-index: 10;
@@ -71,7 +80,7 @@
     #open-settings {
       width: 100%;
       padding: 8px;
-      background-color: #ffffff;
+      background-color: #fff;
       border: 1px solid #ccc;
       border-radius: 4px;
       cursor: pointer;
@@ -83,11 +92,7 @@
       body { background-color: #2b2a33; color: #fbfbfe; }
       .bookmark { border-bottom-color: #38383d; }
       .bookmark:hover { background-color: #52525e; }
-      .back-button {
-        background-color: #38383d;
-        color: #0df;
-        border-bottom-color: #52525e;
-      }
+      .separator-line { background-color: #52525e; }
       .footer { background-color: #23222b; border-top-color: #52525e; }
       #open-settings {
         background-color: #38383d;

@@ -4,7 +4,7 @@
   "description": "Select a specific folder to display in your sidebar. Simple to use, with a quick access shortcut.",
   "author": "Octopus",
   "homepage_url": "https://github.com/Xawiu/my-sidebar-bookmarks-folder/",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icons": {
     "48": "icons/icon.svg"
   },
