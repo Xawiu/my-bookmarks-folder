@@ -31,7 +31,14 @@ Stop digging through endless menus. **My Bookmarks Folder** is a lightweight bro
 
 ### Preview
 
-![Sidebar Preview](https://raw.githubusercontent.com/Xawiu/my-bookmarks-folder/main/screenshots/preview.jpg)
+![Sidebar Preview](https://github.com/Xawiu/my-bookmarks-folder/blob/main/screenshots/preview_screen.png)
+
+![Sidebar Preview](https://github.com/Xawiu/my-bookmarks-folder/blob/main/screenshots/preview_popup.png)
+
+![Sidebar Preview](https://github.com/Xawiu/my-bookmarks-folder/blob/main/screenshots/preview_contextmenu.png)
+
+![Sidebar Preview](https://github.com/Xawiu/my-bookmarks-folder/blob/main/screenshots/preview_settings.png)
+
 
 ### How to use
 
