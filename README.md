@@ -26,7 +26,7 @@ Stop digging through endless menus. **My Bookmarks Folder** is a lightweight bro
 * **Privacy & Performance:**
 * **Fast & Lightweight:** Built with Manifest V3 for optimal performance and security.
 * **Privacy First:** No tracking, no data collection, and minimal permissions required.
-* **Multi-language:** Fully support for: English, Polish, German, French, Spanish, Italian, Greek, Hungarian, Czech, Slovak, Ukrainian, Russian, Hebrew (RTL), Hindi, Swahili, Esperanto, and Klingon (tlh) for true warriors.
+* **Multi-language:** English, Polish, German, French, Spanish, Italian, Greek, Hungarian, Czech, Slovak, Ukrainian, Russian, Hindi, Swahili, Japanese, Chinese, Korean, Esperanto... and of course Klingon (tlh) - especially for true warriors.
 
 
 ### Preview
