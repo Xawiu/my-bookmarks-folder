@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder 設定" },
+  "extensionDesc": { "message": "サイドバー、ポップアップ、コンテキストメニューに表示する特定のフォルダを選択します。" },
+  "shortName": { "message": "ブックマーク" },
+  "sidebarTitle": { "message": "サイドバーフォルダ:" },
+  "popupTitle": { "message": "ポップアップフォルダ:" },
+  "contextTitle": { "message": "コンテキストメニューフォルダ:" },
+  "comfortMode": { "message": "コンフォートモード:" },
+  "comfortModeTip": { "message": "（サイドバーとポップアップ用）" },
+  "folderText": { "message": "フォルダ" },
+  "untitled": { "message": "無題" },
+  "loading": { "message": "読み込み中...." },
+  "memoText": { "message": "サイドバー、ポップアップ、右クリックメニューのフォルダを選択してください。" },
+  "backButton": { "message": "... 戻る" },
+  "settingsButton": { "message": "設定" },
+  "noFolderError": { "message": "設定でフォルダを選択してください。" }
+}
