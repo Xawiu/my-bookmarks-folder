@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder Einstellungen" },
+  "extensionDesc": { "message": "Wählen Sie bestimmte Ordner für die Sidebar, das Popup und das Kontextmenü aus." },
+  "shortName": { "message": "Lesezeichen" },
+  "sidebarTitle": { "message": "Sidebar Ordner:" },
+  "popupTitle": { "message": "Popup Ordner:" },
+  "contextTitle": { "message": "Kontextmenü Ordner:" },
+  "comfortMode": { "message": "Komfortmodus:" },
+  "comfortModeTip": { "message": "(für Sidebar und Popup)" },
+  "folderText": { "message": "Ordner" },
+  "untitled": { "message": "Unbenannt" },
+  "loading": { "message": "Laden...." },
+  "memoText": { "message": "Wählen Sie Ordner für die Sidebar, das Popup und das Menü unter der rechten Maustaste aus." },
+  "backButton": { "message": "... Zurück" },
+  "settingsButton": { "message": "Einstellungen" },
+  "noFolderError": { "message": "Wählen Sie einen Ordner in den Einstellungen aus." }
+}

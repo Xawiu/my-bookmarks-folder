@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Mipangilio ya My Bookmarks Folder" },
+  "extensionDesc": { "message": "Chagua folda maalum za kuonyesha kwenye Sidebar, Popup, na menyu ya muktadha." },
+  "shortName": { "message": "Vialamisho" },
+  "sidebarTitle": { "message": "Folda ya Sidebar:" },
+  "popupTitle": { "message": "Folda ya Popup:" },
+  "contextTitle": { "message": "Folda ya menyu ya muktadha:" },
+  "comfortMode": { "message": "Hali ya starehe:" },
+  "comfortModeTip": { "message": "(kwa ajili ya Sidebar na Popup)" },
+  "folderText": { "message": "Folda" },
+  "untitled": { "message": "Bila jina" },
+  "loading": { "message": "Inapakia...." },
+  "memoText": { "message": "Chagua folda za Sidebar, Popup na menyu ya kubofya kulia." },
+  "backButton": { "message": "... Nyuma" },
+  "settingsButton": { "message": "Mipangilio" },
+  "noFolderError": { "message": "Chagua folda kwenye mipangilio." }
+}

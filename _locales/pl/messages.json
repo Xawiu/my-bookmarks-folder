@@ -1,6 +1,6 @@
 {
   "extensionName": { "message": "My Bookmarks Folder" },
-  "extensionSettingsiTitle": { "message": "Ustawienia My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Ustawienia My Bookmarks Folder" },
   "extensionDesc": { "message": "Wybierz konkretne foldery do wyświetlenia w pasku bocznym, menu podręcznym i menu kontekstowym." },
   "shortName": { "message": "My Bookmarks" },
   "sidebarTitle": { "message": "Folder paska bocznego:" },

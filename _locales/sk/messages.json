@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Nastavenia My Bookmarks Folder" },
+  "extensionDesc": { "message": "Vyberte konkrétne priečinky na zobrazenie v Sidebare, Popup okne a kontextovej ponuke." },
+  "shortName": { "message": "Záložky" },
+  "sidebarTitle": { "message": "Priečinok pre Sidebar:" },
+  "popupTitle": { "message": "Priečinok pre Popup:" },
+  "contextTitle": { "message": "Priečinok pre kontextovú ponuku:" },
+  "comfortMode": { "message": "Pohodlný režim:" },
+  "comfortModeTip": { "message": "(pre Sidebar a Popup okno)" },
+  "folderText": { "message": "Priečinok" },
+  "untitled": { "message": "Bez názvu" },
+  "loading": { "message": "Načítavanie...." },
+  "memoText": { "message": "Vyberte priečinky pre Sidebar, Popup okno a ponuku pod pravým tlačidlom myši." },
+  "backButton": { "message": "... Späť" },
+  "settingsButton": { "message": "Nastavenia" },
+  "noFolderError": { "message": "Vyberte priečinok v nastaveniach." }
+}

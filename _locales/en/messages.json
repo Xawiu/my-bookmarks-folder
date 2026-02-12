@@ -1,6 +1,6 @@
 {
   "extensionName": { "message": "My Bookmarks Folder" },
-  "extensionSettingsiTitle": { "message": "My Bookmarks Folder settings" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder settings" },
   "extensionDesc": { "message": "Select specific folders to display bookmarks in your sidebar, popup or context menu." },
   "shortName": { "message": "My Bookmarks" },
   "sidebarTitle": { "message": "Sidebar folder:" },

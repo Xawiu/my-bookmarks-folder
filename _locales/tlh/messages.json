@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder choH" },
+  "extensionDesc": { "message": "Sidebar, Popup jegh, Context Menu je ghajmeH ghantoH yIwiv." },
+  "shortName": { "message": "petaQ" },
+  "sidebarTitle": { "message": "Sidebar ghantoH:" },
+  "popupTitle": { "message": "Popup ghantoH:" },
+  "contextTitle": { "message": "Context Menu ghantoH:" },
+  "comfortMode": { "message": "bel nI'moH:" },
+  "comfortModeTip": { "message": "(Sidebar, Popup je vaD)" },
+  "folderText": { "message": "ghantoH" },
+  "untitled": { "message": "per ghbe'" },
+  "loading": { "message": "choHtaH...." },
+  "memoText": { "message": "Sidebar, Popup jegh, nIghta' lo'meH ghantoH yIwiv." },
+  "backButton": { "message": "... chap" },
+  "settingsButton": { "message": "choH" },
+  "noFolderError": { "message": "ghantoH yIwiv choHDaq." }
+}

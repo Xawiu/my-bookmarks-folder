@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Ajustes de My Bookmarks Folder" },
+  "extensionDesc": { "message": "Selecciona carpetas específicas para mostrar en la Sidebar, el Popup y el menú contextual." },
+  "shortName": { "message": "Marcadores" },
+  "sidebarTitle": { "message": "Carpeta de la Sidebar:" },
+  "popupTitle": { "message": "Carpeta del Popup:" },
+  "contextTitle": { "message": "Carpeta del menú contextual:" },
+  "comfortMode": { "message": "Modo cómodo:" },
+  "comfortModeTip": { "message": "(para la Sidebar y el Popup)" },
+  "folderText": { "message": "Carpeta" },
+  "untitled": { "message": "Sin título" },
+  "loading": { "message": "Cargando...." },
+  "memoText": { "message": "Selecciona carpetas para la Sidebar, el Popup y el menú contextual." },
+  "backButton": { "message": "... Atrás" },
+  "settingsButton": { "message": "Ajustes" },
+  "noFolderError": { "message": "Selecciona una carpeta en los ajustes." }
+}

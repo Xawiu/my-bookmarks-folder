@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Ρυθμίσεις My Bookmarks Folder" },
+  "extensionDesc": { "message": "Επιλέξτε συγκεκριμένους φακέλους για εμφάνιση στο Sidebar, το Popup και το μενού περιβάλλοντος." },
+  "shortName": { "message": "Σελιδοδείκτες" },
+  "sidebarTitle": { "message": "Φάκελος Sidebar:" },
+  "popupTitle": { "message": "Φάκελος Popup:" },
+  "contextTitle": { "message": "Φάκελος μενού περιβάλλοντος:" },
+  "comfortMode": { "message": "Άνετη λειτουργία:" },
+  "comfortModeTip": { "message": "(για Sidebar και Popup)" },
+  "folderText": { "message": "Φάκελος" },
+  "untitled": { "message": "Χωρίς τίτλο" },
+  "loading": { "message": "Φόρτωση...." },
+  "memoText": { "message": "Επιλέξτε φακέλους για το Sidebar, το Popup και το μενού με το δεξί κλικ." },
+  "backButton": { "message": "... Πίσω" },
+  "settingsButton": { "message": "Ρυθμίσεις" },
+  "noFolderError": { "message": "Επιλέξτε έναν φάκελο στις ρυθμίσεις." }
+}

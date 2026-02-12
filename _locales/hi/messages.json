@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder सेटिंग्स" },
+  "extensionDesc": { "message": "Sidebar, Popup और संदर्भ मेनू में दिखाने के लिए विशिष्ट फ़ोल्डर चुनें।" },
+  "shortName": { "message": "बुकमार्क" },
+  "sidebarTitle": { "message": "Sidebar फ़ोल्डर:" },
+  "popupTitle": { "message": "Popup फ़ोल्डर:" },
+  "contextTitle": { "message": "संदर्भ मेनू फ़ोल्डर:" },
+  "comfortMode": { "message": "कम्फर्ट मोड:" },
+  "comfortModeTip": { "message": "(Sidebar और Popup के लिए)" },
+  "folderText": { "message": "फ़ोल्डर" },
+  "untitled": { "message": "बिना नाम का" },
+  "loading": { "message": "लोड हो रहा है...." },
+  "memoText": { "message": "Sidebar, Popup और राइट-क्लिक मेनू के लिए फ़ोल्डर चुनें।" },
+  "backButton": { "message": "... पीछे" },
+  "settingsButton": { "message": "सेटिंग्स" },
+  "noFolderError": { "message": "सेटिंग्स में फ़ोल्डर चुनें।" }
+}

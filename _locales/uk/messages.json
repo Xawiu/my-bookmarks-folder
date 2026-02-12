@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Налаштування My Bookmarks Folder" },
+  "extensionDesc": { "message": "Виберіть конкретні папки для відображення в Sidebare, Popup вікні та контекстному меню." },
+  "shortName": { "message": "Закладки" },
+  "sidebarTitle": { "message": "Папка для Sidebar:" },
+  "popupTitle": { "message": "Папка для Popup:" },
+  "contextTitle": { "message": "Папка контекстного меню:" },
+  "comfortMode": { "message": "Зручний режим:" },
+  "comfortModeTip": { "message": "(для Sidebar та Popup вікна)" },
+  "folderText": { "message": "Папка" },
+  "untitled": { "message": "Без назви" },
+  "loading": { "message": "Завантаження...." },
+  "memoText": { "message": "Виберіть папки для Sidebar, Popup вікна та меню під правою кнопкою миші." },
+  "backButton": { "message": "... Назад" },
+  "settingsButton": { "message": "Налаштування" },
+  "noFolderError": { "message": "Виберіть папку в налаштуваннях." }
+}

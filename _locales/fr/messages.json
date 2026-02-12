@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Paramètres de My Bookmarks Folder" },
+  "extensionDesc": { "message": "Choisissez des dossiers spécifiques à afficher dans la Sidebar, le Popup et le menu contextuel." },
+  "shortName": { "message": "Favoris" },
+  "sidebarTitle": { "message": "Dossier Sidebar :" },
+  "popupTitle": { "message": "Dossier Popup :" },
+  "contextTitle": { "message": "Dossier menu contextuel :" },
+  "comfortMode": { "message": "Mode confortable :" },
+  "comfortModeTip": { "message": "(pour la Sidebar et le Popup)" },
+  "folderText": { "message": "Dossier" },
+  "untitled": { "message": "Sans titre" },
+  "loading": { "message": "Chargement...." },
+  "memoText": { "message": "Choisissez des dossiers pour la Sidebar, le Popup et le menu contextuel." },
+  "backButton": { "message": "... Retour" },
+  "settingsButton": { "message": "Paramètres" },
+  "noFolderError": { "message": "Sélectionnez un dossier dans les paramètres." }
+}

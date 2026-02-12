@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "My Bookmarks Folder beállítások" },
+  "extensionDesc": { "message": "Válasszon mappákat a Sidebar, a Popup és a helyi menü megjelenítéséhez." },
+  "shortName": { "message": "Könyvjelzők" },
+  "sidebarTitle": { "message": "Sidebar mappa:" },
+  "popupTitle": { "message": "Popup mappa:" },
+  "contextTitle": { "message": "Helyi menü mappa:" },
+  "comfortMode": { "message": "Kényelmes mód:" },
+  "comfortModeTip": { "message": "(Sidebar és Popup esetén)" },
+  "folderText": { "message": "Mappa" },
+  "untitled": { "message": "Névtelen" },
+  "loading": { "message": "Betöltés...." },
+  "memoText": { "message": "Válasszon mappákat a Sidebarhoz, a Popuphoz és a jobb gombos menühöz." },
+  "backButton": { "message": "... Vissza" },
+  "settingsButton": { "message": "Beállítások" },
+  "noFolderError": { "message": "Válasszon egy mappát a beállításokban." }
+}

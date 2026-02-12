@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Agordoj de My Bookmarks Folder" },
+  "extensionDesc": { "message": "Elektu specifajn dosierujojn por montri en la flanka breto (Sidebar), la ŝprucfenestro (Popup) kaj la kunteksta menuo." },
+  "shortName": { "message": "Legosignoj" },
+  "sidebarTitle": { "message": "Dosierujo por Sidebar:" },
+  "popupTitle": { "message": "Dosierujo por Popup:" },
+  "contextTitle": { "message": "Dosierujo por kunteksta menuo:" },
+  "comfortMode": { "message": "Komforta reĝimo:" },
+  "comfortModeTip": { "message": "(por Sidebar kaj Popup)" },
+  "folderText": { "message": "Dosierujo" },
+  "untitled": { "message": "Sen titola" },
+  "loading": { "message": "Ŝargado...." },
+  "memoText": { "message": "Elektu dosierujojn por la flanka breto, la ŝprucfenestro kaj la dekstra-claka menuo." },
+  "backButton": { "message": "... Reen" },
+  "settingsButton": { "message": "Agordoj" },
+  "noFolderError": { "message": "Elektu dosierujon en la agordoj." }
+}

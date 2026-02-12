@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Impostazioni di My Bookmarks Folder" },
+  "extensionDesc": { "message": "Seleziona cartelle specifiche da visualizzare nella Sidebar, nel Popup e nel menu contestuale." },
+  "shortName": { "message": "Segnalibri" },
+  "sidebarTitle": { "message": "Cartella Sidebar:" },
+  "popupTitle": { "message": "Cartella Popup:" },
+  "contextTitle": { "message": "Cartella menu contestuale:" },
+  "comfortMode": { "message": "Modalità comoda:" },
+  "comfortModeTip": { "message": "(per Sidebar e Popup)" },
+  "folderText": { "message": "Cartella" },
+  "untitled": { "message": "Senza nome" },
+  "loading": { "message": "Caricamento...." },
+  "memoText": { "message": "Seleziona le cartelle per la Sidebar, il Popup e il menu contestuale." },
+  "backButton": { "message": "... Indietro" },
+  "settingsButton": { "message": "Impostazioni" },
+  "noFolderError": { "message": "Seleziona una cartella nelle impostazioni." }
+}

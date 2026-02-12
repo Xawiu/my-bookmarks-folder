@@ -1,0 +1,18 @@
+{
+  "extensionName": { "message": "My Bookmarks Folder" },
+  "extensionSettingsTitle": { "message": "Configurações do My Bookmarks Folder" },
+  "extensionDesc": { "message": "Selecione pastas específicas para exibir na Sidebar, no Popup e no menu de contexto." },
+  "shortName": { "message": "Favoritos" },
+  "sidebarTitle": { "message": "Pasta da Sidebar:" },
+  "popupTitle": { "message": "Pasta do Popup:" },
+  "contextTitle": { "message": "Pasta do menu de contexto:" },
+  "comfortMode": { "message": "Modo confortável:" },
+  "comfortModeTip": { "message": "(para Sidebar e Popup)" },
+  "folderText": { "message": "Pasta" },
+  "untitled": { "message": "Sem título" },
+  "loading": { "message": "A carregar...." },
+  "memoText": { "message": "Selecione pastas para a Sidebar, o Popup e o menu do botão direito." },
+  "backButton": { "message": "... Voltar" },
+  "settingsButton": { "message": "Configurações" },
+  "noFolderError": { "message": "Selecione uma pasta nas configurações." }
+}
