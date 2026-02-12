@@ -1,8 +1,8 @@
 # ![My Bookmarks Folder](https://github.com/Xawiu/my-bookmarks-folder/blob/main/icons/icon.svg) My Bookmarks Folder
 
-**The ultimate shortcut to your bookmarks. Access any folder via Sidebar, Popup, or Context Menu.**
+**A versatile Firefox Browser Extension to pin and access specific bookmark folders with ease.**
 
-Stop digging through endless menus. This extension gives you instant, organized access to your favorite links exactly where you need them. Whether you prefer a permanent Sidebar, a quick Toolbar Popup, or a powerful Right-Click Menu, **My Bookmarks Folder** has you covered.
+Stop digging through endless menus. **My Bookmarks Folder** is a lightweight browser extension that gives you instant, organized access to your favorite links exactly where you need them. Whether you prefer a permanent Sidebar, a quick Toolbar Popup, or a powerful Right-Click Context Menu, this tool has you covered.
 
 ### Key Features
 
